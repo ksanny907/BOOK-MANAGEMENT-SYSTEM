@@ -1,6 +1,6 @@
 # BOOK-MANAGEMENT-SYSTEM
   
-     This project is based on the working of Cyber Book Management System which is involved in allotting various types of Management like keep/insert the record of Book along with its Id and Price.We also perform some basic operration like display all book records,search book record,updating the book records,deleting the book records and also save the records in a file.
+     This project is based on the working of Book Management System which is involved in allotting various types of Management like keep/insert the record of Book along with its Id and Price.We also perform some basic operration like display all book records,search book record,updating the book records,deleting the book records and also save the records in a file.
      
  The “Book Management System” is written in C++ language for the following reasons:
 
